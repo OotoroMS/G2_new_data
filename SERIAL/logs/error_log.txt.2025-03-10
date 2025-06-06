@@ -1,0 +1,6 @@
+2025-03-10 16:49:50,419 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x000001D7808A9BB0>: wrapper: 辞書が存在しません: b'\xcf'
+2025-03-10 16:49:51,313 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x000001D7808A9BB0>: wrapper: 辞書が存在しません: b'\xd0'
+2025-03-10 16:49:54,694 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x000001D7808A9BB0>: wrapper: 辞書が存在しません: b'\xcf'
+2025-03-10 16:49:55,635 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x000001D7808A9BB0>: wrapper: 辞書が存在しません: b'\xd0'
+2025-03-10 16:51:14,497 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x000001D7808A9BB0>: wrapper: 辞書が存在しません: b'\xcf'
+2025-03-10 16:51:17,869 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x000001D7808A9BB0>: wrapper: 辞書が存在しません: b'\xd0'

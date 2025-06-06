@@ -1,0 +1,2 @@
+2025-02-27 09:02:33,801 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x00000172A7A68350>: wrapper: 辞書が存在しません: b'\xda'
+2025-02-27 09:02:33,975 - ERROR - <SERIAL.manager.dict_manager.DictManager object at 0x00000172A7A68350>: wrapper: 辞書が存在しません: b'\xda'
